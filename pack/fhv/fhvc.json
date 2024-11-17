@@ -1702,7 +1702,7 @@
     "position": 89,
     "quantity": 1,
     "stage": 1,
-    "text": "[action]: <b>Resign.</b> You flee the bog.\n<b>Forced</b> – When your turn ends, if you are at a [[Bog]] location: Place 1 damage on your location, as a sinkhole (2 sinkholes instead if there are 1 or 2 investigators in the game).\n<b>Forced</b> – If a location has 3 or more sinkholes on it: Remove all sinkholes from it and flip it over.",
+    "text": "[action]: <b>Resign.</b> You flee the bog.\n<b>Forced</b> - When your turn ends, if you are at a [[Bog]] location: Place 1 damage on your location, as a sinkhole (2 sinkholes instead if there are 1 or 2 investigators in the game).\n<b>Forced</b> - If a location has 3 or more sinkholes on it: Remove all sinkholes from it and flip it over.",
     "type_code": "agenda"
   },
   {
@@ -1722,7 +1722,7 @@
     "position": 90,
     "quantity": 1,
     "stage": 2,
-    "text": "<b>Forced</b> – When your turn ends, if you are at a [[Bog]] location: Place 1 damage on your location, as a sinkhole (2 sinkholes instead if there are 1 or 2 investigators in the game).\n<b>Forced</b> – If a location has 3 or more sinkholes on it: Remove all sinkholes from it and flip it over.\n<b>Objective</b> – If the Thing in the Depths is defeated, <b>(→R4)</b>.",
+    "text": "<b>Forced</b> - When your turn ends, if you are at a [[Bog]] location: Place 1 damage on your location, as a sinkhole (2 sinkholes instead if there are 1 or 2 investigators in the game).\n<b>Forced</b> - If a location has 3 or more sinkholes on it: Remove all sinkholes from it and flip it over.\n<b>Objective</b> - If the Thing in the Depths is defeated, <b>(→R4)</b>.",
     "type_code": "agenda"
   },
   {
@@ -1742,7 +1742,7 @@
     "position": 91,
     "quantity": 1,
     "stage": 1,
-    "text": "<b>Objective</b> – At the end of the round, investigators at the North Shore location may spend the requisite number of clues, as a group, to advance. <i>(See the Location Placement diagram on page 28 of the campaign guide for the North Short location.)</i>",
+    "text": "<b>Objective</b> - At the end of the round, investigators at the North Shore location may spend the requisite number of clues, as a group, to advance. <i>(See the Location Placement diagram on page 28 of the campaign guide for the North Short location.)</i>",
     "type_code": "act"
   },
   {
@@ -1761,7 +1761,7 @@
     "position": 92,
     "quantity": 1,
     "stage": 2,
-    "text": "[fast] Investigators at a single location adjacent to Chelydran Hybrid's location spend 1 [per_investigator] clues, as a group: For the remainder of the round, change Chelydran Hybrid's patrol location to that location.\n<b>Forced</b> – At the end of the enemy phase: Chelydran Hybrid takes 1 damage for each ready [[Abomination]] enemy at its location.\n<b>Objective</b> – At the end of the round, if the Chelydran Hybrid is at the Starting Location, immediately advance.",
+    "text": "[fast] Investigators at a single location adjacent to Chelydran Hybrid's location spend 1 [per_investigator] clues, as a group: For the remainder of the round, change Chelydran Hybrid's patrol location to that location.\n<b>Forced</b> - At the end of the enemy phase: Chelydran Hybrid takes 1 damage for each ready [[Abomination]] enemy at its location.\n<b>Objective</b> - At the end of the round, if the Chelydran Hybrid is at the Starting Location, immediately advance.",
     "type_code": "act"
   },
   {
@@ -1771,7 +1771,7 @@
     "encounter_code": "the_thing_in_the_depths",
     "encounter_position": 6,
     "faction_code": "mythos",
-    "flavor": "For some unknown reason I dreaded the thought of disturbing the ancient bog and its sunless secrets.\n – H. P. Lovecraft, \"The Moon-Bog\"",
+    "flavor": "For some unknown reason I dreaded the thought of disturbing the ancient bog and its sunless secrets.\n - H. P. Lovecraft, \"The Moon-Bog\"",
     "illustrator": "Pixoloid Studios",
     "name": "Muddy Fen",
     "pack_code": "fhvc",
@@ -1807,7 +1807,7 @@
     "encounter_code": "the_thing_in_the_depths",
     "encounter_position": 8,
     "faction_code": "mythos",
-    "flavor": "It was very dark, for the trees were grotesquely huge and luxuriant, and incredibly numerous.\n – H. P. Lovecraft and Winifred V. Jackson, \"The Green Meadow\"",
+    "flavor": "It was very dark, for the trees were grotesquely huge and luxuriant, and incredibly numerous.\n - H. P. Lovecraft and Winifred V. Jackson, \"The Green Meadow\"",
     "illustrator": "Pixoloid Studios",
     "name": "Tangled Thicket",
     "pack_code": "fhvc",
@@ -1842,7 +1842,7 @@
     "encounter_code": "the_thing_in_the_depths",
     "encounter_position": 9,
     "faction_code": "mythos",
-    "flavor": "The stagnant waters, lately quite devoid of animal life, now teemed with a horde of slimy enormous frogs which piped shrilly and incessantly...\n – H. P. Lovecraft, \"The Moon-Bog\"",
+    "flavor": "The stagnant waters, lately quite devoid of animal life, now teemed with a horde of slimy enormous frogs which piped shrilly and incessantly...\n - H. P. Lovecraft, \"The Moon-Bog\"",
     "illustrator": "Pixoloid Studios",
     "name": "Fetid Pool",
     "pack_code": "fhvc",
@@ -2029,7 +2029,7 @@
     "position": 100,
     "quantity": 1,
     "subname": "Rising from the Deep",
-    "text": "Elusive. Hunter. Massive. Retaliate.\nThing in the Depths gets +5 [per_investigator] health and cannot make attacks of opportunity.\nWhile Thing in the Depths is moving, its location is considered to be connected to each [[Sunken]] location.\n<b>Forced</b> – After Thing in the Depths attacks at a [[Bog]] location: Heal 2 damage from it.",
+    "text": "Elusive. Hunter. Massive. Retaliate.\nThing in the Depths gets +5 [per_investigator] health and cannot make attacks of opportunity.\nWhile Thing in the Depths is moving, its location is considered to be connected to each [[Sunken]] location.\n<b>Forced</b> - After Thing in the Depths attacks at a [[Bog]] location: Heal 2 damage from it.",
     "traits": "Abomination. Flora. Mutated. Elite.",
     "type_code": "enemy",
     "victory": 2
@@ -2049,7 +2049,7 @@
     "position": 101,
     "quantity": 1,
     "subname": "Flowering Anomaly",
-    "text": "Aloof. Elusive. Patrol (nearest empty location).\nChelydran Hybrid cannot move if a ready [[Abomination]] enemy is at its location, or if it is engaged with an investigator.\n<b>Forced</b> – If this enemy is defeated, <b>(→R3)</b>.",
+    "text": "Aloof. Elusive. Patrol (nearest empty location).\nChelydran Hybrid cannot move if a ready [[Abomination]] enemy is at its location, or if it is engaged with an investigator.\n<b>Forced</b> - If this enemy is defeated, <b>(→R3)</b>.",
     "traits": "Creature. Flora. Mutated. Elite.",
     "type_code": "enemy",
     "victory": 0
@@ -2062,7 +2062,7 @@
     "enemy_evade": 4,
     "enemy_fight": 2,
     "faction_code": "mythos",
-    "flavor": "Truthfully, 'Thing' was the best thing we could come up with to describe whatever was down there.\n – Dr. Rosa Marquez, <i>Miskatonic Survey, 1926</i>",
+    "flavor": "Truthfully, 'Thing' was the best thing we could come up with to describe whatever was down there.\n - Dr. Rosa Marquez, <i>Miskatonic Survey, 1926</i>",
     "health": -2,
     "illustrator": "Pixoloid Studios",
     "name": "Grasping Tendril",
@@ -2084,7 +2084,7 @@
     "pack_code": "fhvc",
     "position": 103,
     "quantity": 3,
-    "text": "<b>Revelation</b> – Test [intellect] or [agility] (4). For each point you fail by, you must either take 1 damage or place 1 damage on the nearest [[Bog]] location, as a sinkhole.",
+    "text": "<b>Revelation</b> - Test [intellect] or [agility] (4). For each point you fail by, you must either take 1 damage or place 1 damage on the nearest [[Bog]] location, as a sinkhole.",
     "traits": "Hazard.",
     "type_code": "treachery"
   },
@@ -2098,7 +2098,7 @@
     "pack_code": "fhvc",
     "position": 104,
     "quantity": 4,
-    "text": "<b>Revelation</b> – If you are at a...\n- ...[[Sunken]] location, take 1 direct damage and deal 1 direct damage to each [[Ally]] asset you control.\n- ...[[Bog]] location, place 1 damage on your location, as a sinkhole.",
+    "text": "<b>Revelation</b> - If you are at a...\n- ...[[Sunken]] location, take 1 direct damage and deal 1 direct damage to each [[Ally]] asset you control.\n- ...[[Bog]] location, place 1 damage on your location, as a sinkhole.",
     "traits": "Hazard.",
     "type_code": "treachery"
   },
@@ -3731,7 +3731,7 @@
     "pack_code": "fhvc",
     "position": 178,
     "quantity": 3,
-    "text": "<b>Revelation</b> – Test [intellect] (3). For each point you fail by, you must either lose 1 action or place 1 of your clues on your location.",
+    "text": "<b>Revelation</b> - Test [intellect] (3). For each point you fail by, you must either lose 1 action or place 1 of your clues on your location.",
     "traits": "Hazard.",
     "type_code": "treachery"
   },
@@ -3746,7 +3746,7 @@
     "pack_code": "fhvc",
     "position": 180,
     "quantity": 3,
-    "text": "<b>Revelation</b> – Test [willpower] (3). This test gets +2 difficulty if there is a [[Colour]] enemy at your location. For each point you fail by, you must either take 1 horror or discard 1 card at random from your hand.",
+    "text": "<b>Revelation</b> - Test [willpower] (3). This test gets +2 difficulty if there is a [[Colour]] enemy at your location. For each point you fail by, you must either take 1 horror or discard 1 card at random from your hand.",
     "traits": "Terror. Power.",
     "type_code": "treachery"
   },
@@ -4873,7 +4873,7 @@
     "pack_code": "fhvc",
     "position": 231,
     "quantity": 3,
-    "text": "Surge.\n<b>Revelation</b> – Put Captivating Gleam into play in your threat area. Limit 1 per investigator.\n<b>Forced</b> – If you have no cards in hand: Take 5 horror and discard Captivating Gleam.",
+    "text": "Surge.\n<b>Revelation</b> - Put Captivating Gleam into play in your threat area. Limit 1 per investigator.\n<b>Forced</b> - If you have no cards in hand: Take 5 horror and discard Captivating Gleam.",
     "traits": "Power. Colour.",
     "type_code": "treachery"
   },
@@ -4891,7 +4891,7 @@
     "pack_code": "fhvc",
     "position": 232,
     "quantity": 2,
-    "text": "Retaliate.\n<b>(Day [day])</b> Poisonblossom gets +1 health and +1 damage value for each overgrowth on it.\n<b>(Night [night])</b> Poisonblossom gets +1 fight and +1 damage value for each overgrowth on it.\n<b>Forced</b> – At the end of the round: Place 1 resource on Poisonblossom, as overgrowth.",
+    "text": "Retaliate.\n<b>(Day [day])</b> Poisonblossom gets +1 health and +1 damage value for each overgrowth on it.\n<b>(Night [night])</b> Poisonblossom gets +1 fight and +1 damage value for each overgrowth on it.\n<b>Forced</b> - At the end of the round: Place 1 resource on Poisonblossom, as overgrowth.",
     "traits": "Creature. Flora. Mutated.",
     "type_code": "enemy"
   },
@@ -4910,7 +4910,7 @@
     "pack_code": "fhvc",
     "position": 233,
     "quantity": 2,
-    "text": "Aloof. <b>(Night [night])</b> Elusive.\n<b>Spawn</b> – Any location (empty, if able).\n<b>Forced</b> – After Forest Watcher enters play: Place 1 doom on it.",
+    "text": "Aloof. <b>(Night [night])</b> Elusive.\n<b>Spawn</b> - Any location (empty, if able).\n<b>Forced</b> - After Forest Watcher enters play: Place 1 doom on it.",
     "traits": "Creature. Flora. Mutated.",
     "type_code": "enemy"
   },
@@ -5040,7 +5040,7 @@
     "pack_code": "fhvc",
     "position": 241,
     "quantity": 2,
-    "text": "<b>Revelation</b> - Attach to the nearest non-[[Elite]] enemy. If you cannot, search the encounter deck and discard pile for a [[Mutated]] enemy and draw it.\n<b>Forced</b> – When attached enemy is defeated: Discard cards from the top of the encounter deck until an enemy is discarded and spawn it at this location.",
+    "text": "<b>Revelation</b> - Attach to the nearest non-[[Elite]] enemy. If you cannot, search the encounter deck and discard pile for a [[Mutated]] enemy and draw it.\n<b>Forced</b> - When attached enemy is defeated: Discard cards from the top of the encounter deck until an enemy is discarded and spawn it at this location.",
     "traits": "Power. Colour.",
     "type_code": "treachery"
   },
@@ -5069,7 +5069,7 @@
     "pack_code": "fhvc",
     "position": 243,
     "quantity": 5,
-    "text": "<b>Revelation</b> - Attach Fire! to the nearest location with no copy of Fire! attached (connected to a location with Fire! attached, if able).\n[action]: Test [agility] (4). If you succeed, discard Fire!\n<b>Forced</b> – At the end of the round: Each card with health at this location takes 1 direct damage.",
+    "text": "<b>Revelation</b> - Attach Fire! to the nearest location with no copy of Fire! attached (connected to a location with Fire! attached, if able).\n[action]: Test [agility] (4). If you succeed, discard Fire!\n<b>Forced</b> - At the end of the round: Each card with health at this location takes 1 direct damage.",
     "traits": "Hazard.",
     "type_code": "treachery"
   }
