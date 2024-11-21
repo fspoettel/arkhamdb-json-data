@@ -321,7 +321,7 @@
         "pack_code": "tdcp",
         "position": 59,
         "quantity": 1,
-        "text": "Exceptional.\n[action] Spend 2 resources: Draw the card attached to Mob Connections.\n[reaction] When an <b><i>Illicit</i></b> asset you control is discarded from play, exhaust Mob Connections: Attach that asset to this card, facedown. Limit 1 attached asset.",
+        "text": "Exceptional.\n[action] Spend 2 resources: Draw the card attached to Mob Connections.\n[reaction] When an [[Illicit]] asset you control is discarded from play, exhaust Mob Connections: Attach that asset to this card, facedown. Limit 1 attached asset.",
         "traits": "Connection. Illicit.",
         "type_code": "asset",
         "xp": 2
