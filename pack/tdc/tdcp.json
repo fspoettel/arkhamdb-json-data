@@ -361,7 +361,7 @@
         "quantity": 2,
         "skill_combat": 1,
         "slot": "Hand",
-        "text": "Uses (2 ammo).\n[free] Exhaust Luger P08 and spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack.\n[action] Spend 1 resource: Replenish all ammo on Luger P08 and ready it.",
+        "text": "Uses (2 ammo).\n[fast] Exhaust Luger P08 and spend 1 ammo: <b>Fight.</b> You get +1 [combat] for this attack.\n[action] Spend 1 resource: Replenish all ammo on Luger P08 and ready it.",
         "traits": "Item. Weapon. Firearm. Illicit.",
         "type_code": "asset",
         "xp": 0
