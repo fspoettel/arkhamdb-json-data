@@ -528,6 +528,25 @@
         "xp": 1
     },
     {
+        "code": "11103",
+        "cost": 2,
+        "deck_limit": 2,
+        "faction_code": "neutral",
+        "illustrator": "Dimitri Bielak",
+        "name": "Forbidden Sutra",
+        "pack_code": "tdcp",
+        "position": 103,
+        "quantity": 2,
+        "restrictions": "trait:blessed, trait:cursed, trait:sorcerer",
+        "skill_wild": 1,
+        "skill_willpower": 1,
+        "slot": "Hand",
+        "text": "[[Blessed]], [[Cursed]], [[Sorcerer]] deck only.\nYou get +1 skill value while resolving [[Spell]] events.\n[reaction] During a skill test on a [[Spell]] event, take up to 3 horror: For each horror taken, reveal an additional chaos token for this test. Choose 1 of the revealed tokens to resolve and ignore the rest.",
+        "traits": "Item. Tome. Blessed. Cursed.",
+        "type_code": "asset",
+        "xp": 2
+    },
+    {
         "code": "11106",
         "cost": 0,
         "deck_limit": 2,
