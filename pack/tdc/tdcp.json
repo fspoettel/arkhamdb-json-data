@@ -154,7 +154,7 @@
                 "limit": 10
             }
         ],
-        "deck_requirements": "card:11009, card:11010",
+        "deck_requirements": "size:35, card:11009, card:11010, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "seeker",
         "health": 6,
@@ -204,7 +204,7 @@
                 "limit": 10
             }
         ],
-        "deck_requirements": "card:11009, card:11010",
+        "deck_requirements": "size:35, card:11009, card:11010, random:subtype:basicweakness",
         "double_sided": true,
         "faction_code": "mystic",
         "health": 6,
