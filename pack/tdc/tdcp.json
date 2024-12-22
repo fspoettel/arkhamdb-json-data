@@ -100,7 +100,9 @@
                 "level": {
                     "min": 0,
                     "max": 5
-                },
+                }
+            },
+            {
                 "faction": ["rogue"],
                 "level": {
                     "min": 0,
