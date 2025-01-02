@@ -1027,6 +1027,7 @@
         "is_unique": false,
         "name": "Library Pass",
         "pack_code": "tdcp",
+        "permanent": true,
         "position": 118,
         "quantity": 1,
         "restrictions": "trait:miskatonic, trait:scholar",
