@@ -1433,7 +1433,7 @@
         "pack_code": "tdcp",
         "position": 121,
         "quantity": 1,
-        "restrictions": "trait:cultist, trait:cursed, trait:'silver twilight'",
+        "restrictions": "trait:cultist, trait:cursed, trait:silver twilight",
         "skill_agility": 1,
         "skill_wild": 1,
         "skill_willpower": 1,
