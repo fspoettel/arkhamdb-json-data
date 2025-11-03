@@ -1,5 +1,41 @@
 [
     {
+        "back_flavor": "Joe Diamond has more experience with supernatural nonsense than most. He has developed a keen intuition and a knack for getting to the bottom of even the most uncanny occurrences, helped in no small part by his willingness to get his hands dirty. But in recent weeks, even Joe has been hard-pressed to stay on top of his work. His desk is flooded with photos of grisly murders and reports of disappearances: people from all walks of life, vanishing without a trace. Joe isn't sure how each of these events is connected, but he's not about to let the case go cold.",
+        "back_text": "<b>Deck Size</b>: 30.\n<b>Deckbuilding Options</b>: Seeker cards ([seeker]) level 0-5, Guardian cards ([guardian]) level 0-2, Neutral cards level 0-5.\n<b>Deckbuilding Requirements</b> (do not count toward deck size): Detective's Intuition, Dead Ends, 1 random basic weakness.",
+        "code": "12004",
+        "deck_limit": 1,
+        "deck_options": [
+            {
+                "faction": ["seeker", "neutral"],
+                "level": { "min": 0, "max": 5 }
+            },
+            { 
+                "faction": ["guardian"], 
+                "level": { "min": 0, "max": 2 } 
+            }
+        ],
+        "deck_requirements": "size:30, card:12005, card:12006, random:subtype:basicweakness",
+        "double_sided": true,
+        "faction_code": "seeker",
+        "flavor": "TBD",
+        "health": 0,
+        "illustrator": "TBD",
+        "is_unique": true,
+        "name": "Joe Diamond",
+        "pack_code": "core_2026",
+        "position": 4,
+        "quantity": 1,
+        "sanity": 0,
+        "skill_agility": 0,
+        "skill_intellect": 0,
+        "skill_combat": 0,
+        "skill_willpower": 0,
+        "subname": "The Private Investigator",
+        "text": "TBD",
+        "traits": "TBD",
+        "type_code": "investigator"
+    },
+    {
         "code": "12016",
         "cost": 3,
         "deck_limit": 2,
