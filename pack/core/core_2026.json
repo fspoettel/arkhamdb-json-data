@@ -216,10 +216,36 @@
         "xp": 0
     },
     {
+        "code": "12023",
+        "cost": 1,
+        "deck_limit": 2,
+        "faction_code": "guardian",
+        "flavor": "\"Keep digging. You'll find something you need in there.\"",
+        "illustrator": "Carlos Palma Cruchaga",
+        "name": "Right Tool for the Job",
+        "pack_code": "core_2026",
+        "position": 23,
+        "quantity": 2,
+        "skill_intellect": 1,
+        "text": "Search the top 9 cards of your deck for a [[Tool]] or [[Weapon]] asset and add it to your hand. Shuffle your deck.",
+        "traits": "Insight.",
+        "type_code": "event",
+        "xp": 0
+    },
+    {
         "code": "12024",
         "duplicate_of": "04103",
         "pack_code": "core_2026",
         "position": 24,
+        "quantity": 2
+    },
+    {
+        "code": "12025",
+        "duplicate_of": "01025",
+        "flavor": "The crack of the bat, the roar of the... giant bat?",
+        "illustrator": "Borja Pindado",
+        "pack_code": "core_2026",
+        "position": 25,
         "quantity": 2
     },
     {
