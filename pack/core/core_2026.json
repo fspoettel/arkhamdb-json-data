@@ -384,6 +384,27 @@
         "xp": 1
     },
     {
+        "code": "12027",
+        "cost": 3,
+        "deck_limit": 2,
+        "faction_code": "guardian",
+        "flavor": "\"I'm not here to help you shop; I'm here to keep you alive.\"",
+        "health": 3,
+        "illustrator": "Billy Norrby",
+        "name": "Bodyguard",
+        "pack_code": "core_2026",
+        "position": 27,
+        "quantity": 2,
+        "sanity": 2,
+        "skill_combat": 1,
+        "skill_wild": 1,
+        "slot": "Ally",
+        "text": "Bodyguard may be assigned damage dealt to other investigators at your location.\n[reaction] When Bodyguard is defeated: Deal 2 damage to an enemy at your location.",
+        "traits": "Ally.",
+        "type_code": "asset",
+        "xp": 2
+    },
+    {
         "code": "12028",
         "cost": 3,
         "deck_limit": 2,
