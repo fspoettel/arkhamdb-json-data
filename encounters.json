@@ -1232,7 +1232,7 @@
         "name": "Blight"
     },
     {
-        "code": "fire",
+        "code": "fire_ch2",
         "name": "Fire!"
     },
     {
@@ -1396,7 +1396,7 @@
         "name": "Arcane Lock"
     },
     {
-        "code": "arkham",
+        "code": "arkham_ch2",
         "name": "Arkham"
     },
     {
@@ -1416,7 +1416,7 @@
         "name": "Cosmic Evils"
     },
     {
-        "code": "cultists",
+        "code": "cultists_ch2",
         "name": "Cultists"
     },
     {
