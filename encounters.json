@@ -1390,5 +1390,53 @@
     {
         "code": "enthralling_encore",
         "name": "Enthralling Encore"
+    },
+    {
+        "code": "arcane_lock",
+        "name": "Arcane Lock"
+    },
+    {
+        "code": "arkham",
+        "name": "Arkham"
+    },
+    {
+        "code": "ashen_pilgrims",
+        "name": "Ashen Pilgrims"
+    },
+    {
+        "code": "bad_weather",
+        "name": "Bad Weather"
+    },
+    {
+        "code": "bystanders",
+        "name": "Bystanders"
+    },
+    {
+        "code": "cosmic_evils",
+        "name": "Cosmic Evils"
+    },
+    {
+        "code": "cultists",
+        "name": "Cultists"
+    },
+    {
+        "code": "dead_ends",
+        "name": "Dead Ends"
+    },
+    {
+        "code": "eldritch_lore",
+        "name": "Eldritch Lore"
+    },
+    {
+        "code": "fire",
+        "name": "Fire!"
+    },
+    {
+        "code": "flying_terrors",
+        "name": "Flying Terrors"
+    },
+    {
+        "code": "gangs_of_arkham",
+        "name": "Gangs of Arkham"
     }
 ]
