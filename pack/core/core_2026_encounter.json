@@ -430,7 +430,7 @@
         "enemy_fight": 3,
         "enemy_horror": 1,
         "faction_code": "mythos",
-        "flavor": "\"...there flopped rhythmically a horde of tame, trained, hybrid winged things that no sound eye could ever wholly grasp, or sound brain ever wholly remember.\"\n-H.P. Lovecraft, \"The Festival\"",
+        "flavor": "\"...there flopped rhythmically a horde of tame, trained, hybrid winged things that no sound eye could ever wholly grasp, or sound brain ever wholly remember.\"\n<i>-H.P. Lovecraft, \"The Festival\"</i>",
         "health": 4,
         "illustrator": "Helge C. Balzer",
         "name": "Bat Horror",
