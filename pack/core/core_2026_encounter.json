@@ -368,7 +368,7 @@
         "encounter_code": "bad_weather",
         "encounter_position": 1,
         "faction_code": "mythos",
-        "flavor": "\"... there descended such a blinding sheet of torrential rain that shelter became imperative.\"\n-H.P. Lovecraft, \"The Lurking Fear\"",
+        "flavor": "\"... there descended such a blinding sheet of torrential rain that shelter became imperative.\"\n<i>-H.P. Lovecraft, \"The Lurking Fear\"</i>",
         "illustrator": "Drazenka Kimpel",
         "name": "Downpour",
         "pack_code": "core_2026",
