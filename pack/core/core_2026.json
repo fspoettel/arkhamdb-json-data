@@ -442,10 +442,11 @@
     {
         "code": "12020",
         "duplicate_of": "01020",
+        "errata_date": "2026-07-14",
         "pack_code": "core_2026",
         "position": 20,
         "quantity": 2,
-        "text": "[action]: <b>Fight</b> ([combat]). You get +1 [combat] for this attack. If the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack."
+        "text": "[action]: <b>Fight</b> ([combat]). You get +1 [combat] for this attack. If you succeed and the attacked enemy is the only enemy engaged with you, you may exhaust Machete to deal +1 damage for this attack."
     },
     {
         "code": "12021",
@@ -1369,6 +1370,7 @@
         "code": "12082",
         "cost": 1,
         "deck_limit": 2,
+        "errata_date": "2026-07-14",
         "faction_code": "survivor",
         "illustrator": "Stanislav Dikolenko",
         "name": "Scrape By",
@@ -1376,7 +1378,7 @@
         "position": 82,
         "quantity": 2,
         "skill_wild": 1,
-        "text": "Fast. Play when you would fail a skill test during which a non-[auto_fail] token was revealed.\nYou succeed at that skill test instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
+        "text": "Fast. Play when you would fail a skill test during which a non-[auto_fail] token was revealed.\nYou succeed at that skill test by 0 instead. If a token with a symbol was revealed during that skill test, take 1 horror.",
         "traits": "Fortune.",
         "type_code": "event",
         "xp": 1
