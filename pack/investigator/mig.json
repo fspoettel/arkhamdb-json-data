@@ -187,7 +187,7 @@
     },
     {
         "code": "60560",
-	    "duplicate_of": "01075", 
+        "duplicate_of": "01075",
         "pack_code": "mig",
         "position": 10,
         "quantity": 2
@@ -213,6 +213,7 @@
         "code": "60562",
         "cost": 2,
         "deck_limit": 2,
+        "errata_date": "2026-07-14",
         "faction_code": "survivor",
         "illustrator": "Stanislav Dikolenko",
         "name": "Decoy Trap",
@@ -231,6 +232,7 @@
         "code": "60563",
         "cost": 2,
         "deck_limit": 2,
+        "errata_date": "2026-07-14",
         "faction_code": "survivor",
         "illustrator": "Rob Laskey",
         "name": "Glassing",
@@ -240,7 +242,7 @@
         "skill_agility": 1,
         "skill_intellect": 1,
         "skill_wild": 1,
-        "text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> ([intellect] or [agility]). You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. <i>(You may trigger this ability from any location.)</i>",
+        "text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters attached location, exhaust Glassing: <b>Investigate</b> ([intellect] or [agility]). Investigate attached location. You get +1 skill value for this investigation. If you succeed, you may discard Glassing to discover 1 additional clue at this location. <i>(You may trigger this ability from any location.)</i>",
         "traits": "Insight. Trap.",
         "type_code": "event",
         "xp": 0
@@ -282,6 +284,7 @@
         "code": "60566",
         "cost": 2,
         "deck_limit": 2,
+        "errata_date": "2026-07-14",
         "faction_code": "survivor",
         "illustrator": "Rob Laskey",
         "name": "Lie in Wait",
@@ -291,7 +294,7 @@
         "skill_combat": 1,
         "skill_wild": 1,
         "skill_willpower": 1,
-        "text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> ([combat] or [agility]). Fight that enemy. You get +1 skill value for this attack. You may discard Lie in Wait for this attack to deal +1 damage. <i>(You may trigger this ability from any location.)</i>",
+        "text": "Fast. Attach to your location. Limit 1 [[Trap]] per location.\n[reaction] After an enemy enters this location, exhaust Lie in Wait: <b>Fight</b> ([combat] or [agility]). Fight that enemy. You get +1 skill value for this attack. If you succeed, you may discard Lie in Wait for this attack to deal +1 damage. <i>(You may trigger this ability from any location.)</i>",
         "traits": "Tactic. Trap.",
         "type_code": "event",
         "xp": 0
@@ -422,6 +425,7 @@
         "code": "60574",
         "cost": 2,
         "deck_limit": 2,
+        "errata_date": "2026-07-14",
         "faction_code": "survivor",
         "illustrator": "Carlos Palma Cruchaga",
         "name": "Hunter's Instinct",
@@ -431,7 +435,7 @@
         "skill_agility": 1,
         "skill_combat": 1,
         "skill_wild": 1,
-        "text": "Limit 1 per investigator. Uses (3 supplies).\n[reaction] After you engage an enemy, spend 1 supply and exhaust Hunter's Instinct: Add a level 0-2 event in your discard pile to your hand.",
+        "text": "Limit 1 per investigator. Uses (3 supplies). If there are no supplies on Hunter's Instinct, discard it.\n[reaction] After you engage an enemy, spend 1 supply and exhaust Hunter's Instinct: Add a level 0-2 event in your discard pile to your hand.",
         "traits": "Talent.",
         "type_code": "asset",
         "xp": 2
