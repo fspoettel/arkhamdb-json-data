@@ -1,6 +1,6 @@
 [
     {
-        "back_text": "Hard / Expert\n[skull]: -3. After this test resolves, if there is a [[Monster]] enemy at your location, that enemy attacks you.\n[cultist]: -2. If there is a [[Syndicate]] enemy at your location, reveal another token.\n[tablet]: -3 (-5 instead if you are at an [[Otherworld]] location.\n[elder_thing]: -5. If you fail, choose an [[Ally]] or [[Witness]] asset. Something abducts that asset.",
+        "back_text": "Hard / Expert\n[skull]: -3. After this test resolves, if there is a [[Monster]] enemy at your location, that enemy attacks you.\n[cultist]: -2. If there is a [[Syndicate]] enemy at your location, reveal another token.\n[tablet]: -3 (-5 instead if you are at an [[Otherworld]] location).\n[elder_thing]: -5. If you fail, choose an [[Ally]] or [[Witness]] asset. Something abducts that asset.",
         "code": "73001",
         "double_sided": true,
         "encounter_code": "traces_to_nowhere",
@@ -10,7 +10,7 @@
         "pack_code": "traces_to_nowhere",
         "position": 1,
         "quantity": 1,
-        "text": "Easy / Standard\n[skull]: -2. If you fail and there is a [[Monster]] enemy at your location, that enemy attacks you.\n[cultist]: -1. If there is a [[Syndicate]] enemy at your location, reveal another token.\n[tablet]: -2 (-4 instead if you are at an [[Otherworld]] location.\n[elder_thing]: -4. If you fail, deal 1 horror to a [[Witness]] asset in play.",
+        "text": "Easy / Standard\n[skull]: -2. If you fail and there is a [[Monster]] enemy at your location, that enemy attacks you.\n[cultist]: -1. If there is a [[Syndicate]] enemy at your location, reveal another token.\n[tablet]: -2 (-4 instead if you are at an [[Otherworld]] location).\n[elder_thing]: -4. If you fail, deal 1 horror to a [[Witness]] asset in play.",
         "type_code": "scenario"
     },    
     {
@@ -63,7 +63,7 @@
         "encounter_code": "traces_to_nowhere",
         "encounter_position": 4,
         "faction_code": "mythos",
-        "flavor": "Tne night drags on, like a cigarette burning down to the filter. You need to crack this case before it cracks you.",
+        "flavor": "The night drags on, like a cigarette burning down to the filter. You need to crack this case before it cracks you.",
         "illustrator": "Stanislav Dikolenko",
         "name": "Running Out of Time",
         "pack_code": "traces_to_nowhere",
@@ -90,13 +90,13 @@
         "position": 5,
         "quantity": 1,
         "stage": 1,
-        "text": "<b>Forced</b> - When the round ends, if there are no [[Witness]] assets in play and no cards in the leads deck: Each surviving investigator is defeated.\n<b>Objective</b> - After the first chaos token is sealed on the scenario reference card, immediately advance. <i>(Hint: You'll have to follow up on your leads to m ake progress in your investigation!)</i>",
+        "text": "<b>Forced</b> - When the round ends, if there are no [[Witness]] assets in play and no cards in the leads deck: Each surviving investigator is defeated.\n<b>Objective</b> - After the first chaos token is sealed on the scenario reference card, immediately advance. <i>(Hint: You'll have to follow up on your leads to make progress in your investigation!)</i>",
         "type_code": "act"
     },
     {
         "back_flavor": "The night stretches on, but at least you're finally starting to make progress.",
         "back_name": "Closing In",
-        "back_text": "Check which tokens are sealed on the scenario reference card. If there are...\n- ...a [skull] token and a [cultist] token, shuffle the set-aside Lina Husserl and Vicar Yang story assets into the leads deck.\n- ...a [tablet] token and a [cultist] token, shuffle the set-aside Albrecht Husserl and Matilde Correa story assets into the leads deck.\n- ...a [skull] token and a [tablet] token, shuffle the set-aside Elias Husserl, Jr. story asset into the leads deck.\nIf \"the investigators found something strange in the funeral home basement\", swap Duterte Funeral Home <i>(After Hours)</i> with the set-aside Duterte Funeral Home <i>(Something in the Basement)</i>, keeping all tokens and attachments.",
+        "back_text": "Check which tokens are sealed on the scenario reference card. If there are...\n- ...a [skull] token and a [cultist] token, shuffle the set-aside Lina Husserl and Vicar Yang story assets into the leads deck.\n- ...a [tablet] token and a [cultist] token, shuffle the set-aside Albrecht Husserl and Matilde Correa story assets into the leads deck.\n- ...a [skull] token and a [tablet] token, shuffle the set-aside Elias Husserl, Jr. story asset into the leads deck.\nIf \"the investigators found something strange in the funeral home basement,\" swap Duterte Funeral Home <i>(After Hours)</i> with the set-aside Duterte Funeral Home <i>(Something in the Basement)</i>, keeping all tokens and attachments.",
         "clues": null,
         "code": "73006",
         "double_sided": true,
@@ -246,13 +246,13 @@
         "health": 2,
         "illustrator": "Anders Finer",
         "is_unique": true,
-        "name": "Elias Husserl, Jr.",
+        "name": "Elias Husserl Jr.",
         "pack_code": "traces_to_nowhere",
         "position": 14,
         "quantity": 1,
         "sanity": 2,
         "subname": "Fleeing the City",
-        "text": "<b>Revelation</b> - If Train Station is set aside, put it into play. Put Elias Husserl, Jr. into play at Train Station.\n[action]: <b>Parley.</b> ([codex] I).",
+        "text": "<b>Revelation</b> - If Train Station is set aside, put it into play. Put Elias Husserl Jr. into play at Train Station.\n[action]: <b>Parley.</b> ([codex] I).",
         "traits": "Suspect.",
         "type_code": "asset"
     },
@@ -290,7 +290,7 @@
         "quantity": 1,
         "sanity": 2,
         "subname": "The Next Big Thing",
-        "text": "<b>Revelation</b> - Put Eugene Peel into play at Merchant District.\n[action]: <b>Parley.</b> ([codex] H).",
+        "text": "<b>Revelation</b> - Put Lina Husserl into play at Merchant District.\n[action]: <b>Parley.</b> ([codex] H).",
         "traits": "Suspect.",
         "type_code": "asset"
     },
