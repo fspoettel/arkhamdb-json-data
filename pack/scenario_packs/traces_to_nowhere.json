@@ -364,7 +364,7 @@
         "pack_code": "traces_to_nowhere",
         "position": 19,
         "quantity": 1,
-        "flavor": "With nowhere to run, you confront Albrecht Husserl. His injuries have given him pause, opening the door for you to convinct him to return to Arkham once and for all.",
+        "flavor": "With nowhere to run, you confront Albrecht Husserl. His injuries have given him pause, opening the door for you to convince him to return to Arkham once and for all.",
         "text": "Choose an investigator at Albrecht Husserl's location to test [agility] (4). Before revealing chaos tokens, investigators at Albrecht Husserl's location may spend 1-4 clues, as a group. For each clue spent this way, reduce the difficulty of this test by 1.\n- If that investigator succeeds, flip this card over and move Albrecht Husserl to The Portal (or to any [[Arkham]] location, if he is at The Portal).\n- If that investigator fails, flip this card over and Albrecht Husserl attacks that investigator, disengages from all investigators, and moves directly to the Dimensional Shambler's location.",
         "type_code": "story"
     },
@@ -454,7 +454,7 @@
         "pack_code": "traces_to_nowhere",
         "position": 22,
         "quantity": 1,
-        "text": "<b>Revelation</b> - Put Crooked Cops into play at a connecting location.\n<b>Forced</b> - After an investigator parleys: Crooked Cops moves directly to that investigator's location.\n[action] Spend 2 resources: <b>Parley</b>. Automatically evade Crooked Cops.",
+        "text": "<b>Revelation</b> - Put Crooked Cops into play at a connecting location.\n<b>Forced</b> - After an investigator parleys: Crooked Cops moves directly to that investigator's location.\n[action] Spend 2 resources: <b>Parley.</b> Automatically evade Crooked Cops.",
         "traits": "Humanoid. Police. Syndicate.",
         "type_code": "enemy",
         "victory": 1
