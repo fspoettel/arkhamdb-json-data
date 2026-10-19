@@ -1109,7 +1109,7 @@
         "pack_code": "traces_to_nowhere",
         "position": 53,
         "quantity": 1,
-        "subname": "That Which Lurks in Shadows",
+        "subname": "Dragging Them Below",
         "text": "Retaliate. Patrol (location with the most facedown cards beneath it).\nDimensional Shambler gets +1 fight for each card attached to it (to a maximum of +4 fight).\n<b>Forced</b> - When you deal 1 or more damage to Dimensional Shambler: Remove 1 facedown card attached to it from the game. Then, heal 2 damage from Dimensional Shambler.",
         "traits": "Monster. Abomination. Elite.",
         "type_code": "enemy",
