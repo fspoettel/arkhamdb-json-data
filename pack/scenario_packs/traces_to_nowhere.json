@@ -614,8 +614,8 @@
         "pack_code": "traces_to_nowhere",
         "position": 29,
         "quantity": 1,
-        "flavor": "The Tick-Tock Club is alive with activity, as wealthy patrons take their chances gambling away more money than you've ever seen in your entire career. You've got the investigation to worry about, but you wonder if you could find the time to play a hand or two and maybe walk away with some stuffed pockets.",
-        "text": "Each investigator at Tick-Tock Club may spend 2 resources to play blackjack. Then, one at a time, each investigator who did so revealed random tokens from the chaos bag until they choose to stop. Treat each [skull], [cultist], [tablet], or [elder_thing] as a 5; the [auto_fail] as a 10; and the [elder_sign] as either a 1 or an 11. If the combined value of the revealed tokens (ignoring +/-) is...\n- ...18 or less, gain 3 resources.\n- ...19, gain 4 resources.\n- ...20, gain 5 resources.\n- ...21, gain 8 resources.\n- ...22 or more, you bust and gain nothing.\nFlip this card back to its location side.",
+        "flavor": "The Tick-Tock Club is alive with activity, as wealthy patrons take their chances gambling away more money than you've seen in your entire career. You've got the investigation to worry about, but you wonder if you could find the time to play a hand or two and maybe walk away with some stuffed pockets.",
+        "text": "Each investigator at Tick-Tock Club may spend 2 resources to play blackjack. Then, one at a time, each investigator who did so reveals random tokens from the chaos bag until they choose to stop. Treat each [skull], [cultist], [tablet], or [elder_thing] as a 5; the [auto_fail] as a 10; and the [elder_sign] as either a 1 or an 11. If the combined value of the revealed tokens (ignoring +/-) is...\n- ...18 or less, gain 3 resources.\n- ...19, gain 4 resources.\n- ...20, gain 5 resources.\n- ...21, gain 8 resources.\n- ...22 or more, you bust and gain nothing.\nFlip this card back to its location side.",
         "type_code": "story"
     },
     {
@@ -710,7 +710,7 @@
         "pack_code": "traces_to_nowhere",
         "position": 32,
         "quantity": 1,
-        "flavor": "The storied mansion in Arkham's French Hill district plays host to all sorts of parties these days. It isn't h ard for you to get inside, and after mingling briefly you learn that Lina Husserl was a frequent attendee, though most of the guests express relief that she has been absent lately. Your questions about her behavior are met with stories of her obsessing over a locked door on the top floor of the manor.\nYou make up an excuse to leave the conversation, and visit the door yourself. It stands like a slab of cold, black stone, with a symbol etched into its surface: three arrows, fanning apart as they point up towards the ceiling. You reach out to grasp the door's handle, and are shocked to find it unlocked.",
+        "flavor": "The storied mansion in Arkham's French Hill district plays host to all sorts of parties these days. It isn't hard for you to get inside, and after mingling briefly you learn that Lina Husserl was a frequent attendee, though most of the guests express relief that she has been absent lately. Your questions about her behavior are met with stories of her obsessing over a locked door on the top floor of the manor.\nYou make up an excuse to leave the conversation, and visit the door yourself. It stands like a slab of cold, black stone, with a symbol etched into its surface: three arrows, fanning apart as they point up towards the ceiling. You reach out to grasp the door's handle, and are shocked to find it unlocked.",
         "text": "Flip this card over and swap it with the set-aside Meiger Estate <i>(Beyond the Black Door)</i>, keeping all tokens and attachments.",
         "type_code": "story"
     },
