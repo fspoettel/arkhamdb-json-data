@@ -186,6 +186,7 @@
     },
     {
         "back_flavor": "All Saints Roman Catholic Church of South Arkham, colloquially known as South Church, plays host to a dwindling congregation and a wearied clergy.",
+        "back_traits": "Arkham.",
         "clues": 1,
         "code": "73011",
         "encounter_code": "traces_to_nowhere",
@@ -203,6 +204,7 @@
     },  
     {
         "back_flavor": "Boasting a library packed with books and documents cataloguing Arkham's history, as well as museum displays of archaeological finds and historical objects, the Arkham Historical Society holds many secrets otherwise lost to time.",
+        "back_traits": "Arkham.",
         "clues": 1,
         "code": "73012",
         "encounter_code": "traces_to_nowhere",
@@ -496,7 +498,7 @@
         "position": 24,
         "quantity": 1,
         "stage": 4,
-        "text": "<b>Forced</b> - After Lina Husserl is defeated: (<b>→R4</b>)\nObjective</b> - When the round ends, if Dimensional Shambler is in the victory display and Lina Husserl is at an [[Arkham]] location, advance. <i>(Hint: Anyone still abducted will be left behind!)</i>",
+        "text": "<b>Forced</b> - After Lina Husserl is defeated: (<b>→R4</b>)\n<b>Objective</b> - When the round ends, if Dimensional Shambler is in the victory display and Lina Husserl is at an [[Arkham]] location, advance. <i>(Hint: Anyone still abducted will be left behind!)</i>",
         "type_code": "act"
     },
     {
@@ -516,7 +518,7 @@
         "position": 25,
         "quantity": 1,
         "stage": 4,
-        "text": "<b>Forced</b> - After Eugene Peel is defeated: (<b>→R4</b>)\nObjective</b> - When the round ends, if Dimensional Shambler is in the victory display and Eugene Peel is at an [[Arkham]] location, advance. <i>(Hint: Anyone still abducted will be left behind!)</i>",
+        "text": "<b>Forced</b> - After Eugene Peel is defeated: (<b>→R4</b>)\n<b>Objective</b> - When the round ends, if Dimensional Shambler is in the victory display and Eugene Peel is at an [[Arkham]] location, advance. <i>(Hint: Anyone still abducted will be left behind!)</i>",
         "type_code": "act"
     },
     {
@@ -536,7 +538,7 @@
         "position": 26,
         "quantity": 1,
         "stage": 4,
-        "text": "<b>Forced</b> - After Albrecht Husserl is defeated: (<b>→R4</b>)\nObjective</b> - When the round ends, if Dimensional Shambler is in the victory display and Albrecht Husserl is at an [[Arkham]] location, advance. <i>(Hint: Anyone still abducted will be left behind!)</i>",
+        "text": "<b>Forced</b> - After Albrecht Husserl is defeated: (<b>→R4</b>)\n<b>Objective</b> - When the round ends, if Dimensional Shambler is in the victory display and Albrecht Husserl is at an [[Arkham]] location, advance. <i>(Hint: Anyone still abducted will be left behind!)</i>",
         "type_code": "act"
     },
     {
@@ -572,6 +574,7 @@
     },
     {
         "back_flavor": "Tickets tend to cost more than they should, but even still it seems there are more passengers departing than arriving.",
+        "back_traits": "Arkham.",
         "clues": 2,
         "code": "73028",
         "encounter_code": "traces_to_nowhere",
